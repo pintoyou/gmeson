@@ -121,7 +121,7 @@ const ActionPanel: React.FunctionComponent<ActionPanelProps> = ({ details, apr, 
       <InfoContainer>
         {isActive && (
           <StakeContainer>
-            <StyledLinkExternal href={`https://swap.kizunacoin.net/#/add/${liquidityUrlPathParts}`}>
+            <StyledLinkExternal href={`https://swapgme.netlify.app/#/add/${liquidityUrlPathParts}`}>
               {TranslateString(999, `Get ${lpLabel}`, { name: lpLabel })}
             </StyledLinkExternal>
           </StakeContainer>

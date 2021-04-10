@@ -52,10 +52,10 @@ const Ifo = () => {
             <li>{TranslateString(598, 'Get GME-BNB LP tokens by adding GME and BNB liquidity')}</li>
           </List>
           <Flex mb="16px">
-            <LinkExternal href="https://swap.kizunacoin.net/#/swap" mr="16px">
+            <LinkExternal href="https://swapgme.netlify.app/#/swap" mr="16px">
               {TranslateString(1060, 'Buy GME')}
             </LinkExternal>
-            <LinkExternal href="https://swap.kizunacoin.net/#/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
+            <LinkExternal href="https://swapgme.netlify.app/#/add/BNB/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82">
               {TranslateString(1062, 'Get LP tokens')}
             </LinkExternal>
           </Flex>

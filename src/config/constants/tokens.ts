@@ -10,7 +10,7 @@ const tokens = {
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://abc.kizunacoin.net/',
+    projectLink: 'https://gametokenfi.netlify.app/',
   },
   cake: {
     symbol: 'CAKE',

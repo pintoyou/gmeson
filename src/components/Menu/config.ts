@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://swap.kizunacoin.net',
+        href: 'https://swapgme.netlify.app/',
       },
       {
         label: 'Liquidity',
-        href: 'http://swap.kizunacoin.net/#/pool',
+        href: 'https://swapgme.netlify.app/#/pool',
       },
     ],
   },
@@ -60,7 +60,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Blog',
-        href: 'https://medium.com/@GameToken',
+        href: 'https://medium.com/@GameTokenFi',
       },
     ],
   },
